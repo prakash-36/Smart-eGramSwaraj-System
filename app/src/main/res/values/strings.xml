@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="foget_password">Forget password</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup">Create Account</string>
+    <string name="fullname">Enter full name</string>
+    <string name="email">Enter Email</string>
+    <string name="phone_no">Enter phone number</string>
+    <string name="signup_button">SignUp</string>
+    <string name="register_form">Select Local Body</string>
+    <string name="submit">Submit</string>
+    <string name="Reset">Reset</string>
+    <string name="village">Village</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+
+    <!--titles-->
+    <string name="first_slide_title">View Activities</string>
+    <string name="second_slide_title">Make Complaints</string>
+    <string name="third_slide_title">Give Suggestions</string>
+
+    <!--descriptions...-->
+    <string name="first_slide_desc">You can view Ongoing activities in your area with their
+        financial report. We will display all related works for that activity.</string>
+    <string name="second_slide_desc">We give complaint facility to you. If any activity or report
+        provided for that activity is wrong, you can make complaint about that activity report.</string>
+
+    <string name="third_slide_desc">If something you want new development activities like school,
+        hospital facility in your area, then you can detail description about that. And you can
+        provide some ideas to improve your village.</string>
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_start">Lets Get Started</string>
+    <string name="egramswaraj">eGramSwaraj</string>
+    <string name="financial_year">Financial year</string>
+    <string name="approved_activities">Approved Activities</string>
+    <string name="ongoing_works">Ongoing Works</string>
+    <string name="completed_works">Completed Works</string>
+    <string name="view_all">view all</string>
+    <string name="future_works">Future Works</string>
+    <string name="slogan_desc">Simplified Work Based Accounting Application for Panchayati Raj</string>
+    <string name="enter_scheme_name">Enter Activity name</string>
+    <string name="activity_code">Activity Code</string>
+    <string name="s_no">S.No.</string>
+    <string name="activity_description">Activity Description</string>
+    <string name="focus_area">Focus Area</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="rate_us">Rate us</string>
+    <string name="complaint">Complaint</string>
+    <string name="feedback">Feedback</string>
+    <string name="development_activities">Development Activities</string>
+</resources>

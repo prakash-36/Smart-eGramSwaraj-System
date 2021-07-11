@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/feedback"
+        android:id="@+id/dot_feedback"/>
+    <item
+        android:title="@string/complaint"
+        android:id="@+id/dot_complaint"/>
+    <item
+        android:title="@string/rate_us"
+        android:id="@+id/dot_rate_us"/>
+</menu>
